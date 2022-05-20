@@ -1,3 +1,4 @@
+/* ----- Base Configurations ----- */
 * {
     transition: all 0.3s ease;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -47,7 +48,7 @@ a:hover {
     border-radius: 5px;
 }
 
-/* ------------------------------------------------------- */
+/* ----- Menu System ----- */
 
 .menu-desktop {
     position: fixed;
@@ -120,7 +121,7 @@ a.selected {
     color: white;
 }
 
-/* ------------------------------------------------------- */
+/* ----- Containers ----- */
 
 .con1 {
     height: 100vh;
@@ -372,7 +373,7 @@ a.selected {
     padding: 5px;
 }
 
-/* -------------------------------------------- */
+/* ----- Creators ----- */
 
 .creator {
     width: 100%;
