@@ -1,0 +1,50 @@
+.how-to-con1 {
+    height: 30vh;
+}
+
+.how-to-wel-con {
+    min-height: 65vh;
+    background-color: #2727279e;
+}
+
+.how-to-con2 {
+    margin-top: 25em;
+}
+
+.how-to-fea-sub-con {
+    margin: 0 10em !important;
+}
+
+.how-to-fea-sub-con>div {
+    margin-top: 25em;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    align-items: flex-end;
+}
+
+.how-to-fea-sub-con-right>div {
+    margin-top: 25em;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.how-to-fea-sub-con-left>div {
+    /* margin-top: 25em; */
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    align-items: flex-end;
+}
+
+.how-to-fea-sub-con>div>p {
+    width: 45em;
+}
+
+/* .how-to-fea-sub-con>img {
+    margin-bottom: 5em;
+} */
+
+
